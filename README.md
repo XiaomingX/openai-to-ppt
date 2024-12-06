@@ -3,8 +3,6 @@
 1. openai生成markdown
 2. markdown转ppt（选型如下）
 ```
-以下是几个可以将Markdown转换为PowerPoint演示文稿的TypeScript库：
-
 ### 1. Marp
 
 Marp是一个强大的Markdown演示工具，具有以下特点：
